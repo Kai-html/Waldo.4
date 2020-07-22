@@ -1,0 +1,26 @@
+<style>
+    .try{
+        color:blue;   
+    }
+    pre {
+        border-bottom: 40px solid #69c;
+        border-top:40px solid #69c;
+        border-left: 40px solid #69c;
+        border-right: 40px solid #69c;
+        line-height: .8; 
+    }
+    .link{
+        color: #ffffff00;   
+    }
+    header {
+        background-image: url("https://i.pinimg.com/originals/24/c1/b0/24c1b065c17d4c4bf8d5bc725234988f.jpg");
+        background-position: center top;
+        background-repeat: no-repeat;
+        background-size: cover;
+        line-height: auto;
+        padding: 20vw 2em;
+        text-align: center;
+    
+
+
+</style>
